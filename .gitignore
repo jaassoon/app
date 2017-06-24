@@ -1,4 +1,10 @@
 /vendor/*
-/config/app.php
+# /config/app.php
 /tmp/*
 /logs/*
+.buildpath
+.project
+.settings/
+composer.lock
+# webroot/cake.sublime-project
+webroot/cake.sublime-workspace
